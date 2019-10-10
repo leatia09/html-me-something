@@ -1,0 +1,119 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: rgb(91, 94, 95);
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: rgb(108, 109, 109);
+	font-size: 2.0em;
+}
+
+header {
+	padding: 1.975em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3, h5, h6 {
+    text-align: center;
+	margin: 0;
+}
+
+
+h1 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+h2 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+h3 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h4 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h5 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h6 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h7 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h8 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h9 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h10 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+
+h11 {
+    font-size: 2.0em;
+    text-align: center;
+    font-style: bold;
+}
+main h2 {
+	padding: 0.70em 0 0.70em 0.70em;
+}
+
+section {
+    margin: 1.975em 0;
+    font-style: bold;
+}
+
+
+p {
+	padding: 1.35em;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+
+	body {
+		font-size: 70%;
+	}
