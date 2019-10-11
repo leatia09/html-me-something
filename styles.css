@@ -9,7 +9,7 @@ body {
 header,
 main,
 footer {
-	background-color: rgb(108, 109, 109);
+	background-color: rgb(188, 190, 190);
 	font-size: 2.0em;
 }
 
@@ -18,7 +18,12 @@ header {
 }
 
 header h1 {
-	text-align: center;
+    text-align: center;
+}
+
+#myHeader {
+    color: red;
+    font-style: italic;
 }
 
 h1, h2, h3, h5, h6 {
@@ -32,7 +37,8 @@ h1 {
     text-align: center;
     font-style: bold;
 }
-h2 {
+.h2 {
+    background-color: red;
     font-size: 2.0em;
     text-align: center;
     font-style: bold;
